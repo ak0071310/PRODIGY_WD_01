@@ -1,4 +1,4 @@
-website : prodigywd01.ccbp.tech
+website : https://prodigywd01.ccbp.tech/
 
 # Food Munch - Responsive Food Delivery Website
 
